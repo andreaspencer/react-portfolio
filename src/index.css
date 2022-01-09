@@ -1,10 +1,92 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(182, 146, 146);
+
+}
+
+.nav-link, .navActive {
+  display: inline-block;
+  margin: 0px 20px;
+  text-decoration: none;
+  color: peachpuff;
+  font-size: 20px;
+}
+.navbar, .navbar-brand {
+  text-align: center;
+  display: block;
+  width: 100%;
+  background-color: peachpuff;
+}
+
+.navmain, .navbar-item {
+  color: rgb(155, 87, 99);
+  text-decoration: none;
+  font-size: 35px;
+}
+
+#about, .button {
+  color: rgb(155, 87, 99);
+  text-align: center;
+  font-size: 27px;
+  text-decoration: none;
+}
+
+.bio {
+  color: peachpuff;
+  text-align: center;
+  font-size: 25px;
+}
+
+.card {
+  display: inline-block;
+}
+.images {
+  width: 450px;
+  height: 300px;
+}
+.skills {
+  text-align: center;
+  color: rgb(155, 87, 99);
+  font-size: 20px;
+  list-style: none;
+}
+
+#contact-form {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  color: peachpuff;
+}
+
+button {
+  background-color: peachpuff;
+  color: rgb(155, 87, 99);
+  margin: 1px;
+  height: 20px;
+}
+
+.footer {
+  display: flex;
+  flex: wrap;
+  justify-content: center;
+  color: peachpuff;
+  text-decoration: none;
+}
+
+footer.footer {
+  background-color: peachpuff;
+  display: flex;
+  flex: wrap;
+  justify-content: center;
+}
+
+.github, .linkedin{
+  color: rgb(155, 87, 99);
+  text-decoration: none;
+  margin: 0px 20px;
 }
 
 code {

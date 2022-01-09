@@ -3,24 +3,24 @@ import React from "react";
 function Project(props) {
     return (
         <div>
-            <div className="mx-4 flex-row">
+            <div className="columns">
                 {props.projects.map((project) => (
-                    <div className="mx-6">
+                    <div className="column col-6">
                         <div className="card">
                             <div className="card-image">
                                 <a href={project.live}>
-                                    <img src={process.env.PUBLIC_URL + project.image} alt="PlaceHolder" />
+                                    <img className="images" src={process.env.PUBLIC_URL + project.image} alt="PlaceHolder" />
                                 </a>
                             </div>
                             <div className="card-content">
-                                <div className="">
-                                    <p className="title" key={project.id}>
+                                <div className="media">
+                                    <p className="bio" key={project.id}>
                                         {project.title}
                                     </p>
-                                    <a href={project.live} className="livelink">
+                                    <a href={project.live} className="footer">
                                         See it Live!
                                     </a>
-                                    <a href={project.repo} className="repolink">
+                                    <a href={project.repo} className="footer">
                                         Checkout the Repo!
                                     </a>
                                 </div>

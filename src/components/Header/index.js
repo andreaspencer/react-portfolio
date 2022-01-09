@@ -27,7 +27,7 @@ function Header() {
             <nav className="navbar">
                 <div className="navbar-brand">
                     <a className="navbar-item" href="https://github.com/andreaspencer/">
-                        <span className="">Andrea Spencer</span>
+                        <span className="navmain">Andrea Spencer</span>
                     </a>
                 </div>
             </nav>

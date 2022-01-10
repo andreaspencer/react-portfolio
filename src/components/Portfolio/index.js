@@ -42,7 +42,7 @@ const projects = [
         title: "Horiseon Homepage",
         image: "../img/horiseon-homepage.png",
         repo: "https://github.com/andreaspencer/andreaspencer.github.io",
-        live: "andreaspencer.github.io"
+        live: "https://andreaspencer.github.io/"
     }
 ];
 

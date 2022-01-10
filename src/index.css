@@ -40,13 +40,19 @@ body {
   font-size: 25px;
 }
 
-.card {
-  display: inline-block;
+.columns {
+  width: 100%;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
+
 .images {
   width: 450px;
   height: 300px;
 }
+
 .skills {
   text-align: center;
   color: rgb(155, 87, 99);

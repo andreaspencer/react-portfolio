@@ -5,7 +5,7 @@ function Project(props) {
         <div>
             <div className="columns">
                 {props.projects.map((project) => (
-                    <div className="column col-6">
+                    <div className="column">
                         <div className="card">
                             <div className="card-image">
                                 <a href={project.live}>

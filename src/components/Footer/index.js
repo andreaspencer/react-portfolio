@@ -11,6 +11,7 @@ function Footer() {
                 <a href="https://www.linkedin.com/in/andrea-spencer-3b3304113/" className="linkedin">
                     LinkedIn
                 </a>
+                <a href="https://twitter.com/Andreaaddawn" className="github">Twitter</a>
             </div>
         </footer>
     );

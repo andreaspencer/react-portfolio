@@ -30,7 +30,10 @@ This is a single-page portfolio application for my proffesional portfolio. It is
     - once the project is open in VS code you can locally view the site by typing npm start in terminal
 
 #### Screenshot
+<img width="1395" alt="Screen Shot 2022-01-09 at 4 33 06 PM" src="https://user-images.githubusercontent.com/87836575/148708011-a694dec2-4247-455c-876f-925ebdc061c9.png">
+<img width="1395" alt="Screen Shot 2022-01-09 at 4 33 20 PM" src="https://user-images.githubusercontent.com/87836575/148708016-198de5c5-32ea-49cf-90c7-9da0c583a6f5.png">
+<img width="1396" alt="Screen Shot 2022-01-09 at 4 33 29 PM" src="https://user-images.githubusercontent.com/87836575/148708020-6ed8ad81-4e36-4f46-90a5-0b4a8dcf7a4b.png">
+<img width="1397" alt="Screen Shot 2022-01-09 at 4 33 39 PM" src="https://user-images.githubusercontent.com/87836575/148708023-a0ea082d-ac81-48a3-b6eb-a2832515b636.png">
 
 ###### Live link
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+https://andreaspencer.github.io/react-portfolio/

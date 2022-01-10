@@ -6,7 +6,7 @@ function About() {
     <section className='mx-5'>
         <h1 id="about">Who am I?</h1>
         <img className='my-pic' src={process.env.PUBLIC_URL + '../img/coverimage.png'} style={{ width: "100%" }} alt="cover" />
-        <p className="bio">Hi my name is Andrea. I am a 23 year old CSUN Graduate with a
+        <p className="bio">Hi my name is Andrea. I am a 24 year old CSUN Graduate with a
         Bachelors in Business Management. I am currently enrolled in UCLA
         Coding Bootcamp for my certificate in Full Stack Web Development.
         I live in Los Angeles but call many places my home. I try to

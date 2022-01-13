@@ -7,7 +7,7 @@ function Resume() {
                 <p id="about">Resume</p>
                 <hr />
 
-                <a className="button" href={process.env.PUBLIC_URL + "../AndreaSpencer-Resume.pdf"}>
+                <a className="button" href={process.env.PUBLIC_URL + "/AndreaSpencer-Resume.pdf"}>
                 ✨Download My Resume Here✨
                 </a>
             </div>

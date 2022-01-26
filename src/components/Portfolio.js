@@ -18,10 +18,10 @@ const projects = [
     },
     {
         id: 2,
-        title: "Note Taker",
+        title: "QuackChat",
         image: "/img/note-taker.png",
-        repo: "https://github.com/andreaspencer/note-taker",
-        live: "https://challenge10-notetaker.herokuapp.com/", 
+        repo: "https://github.com/andreaspencer/quackchat-project3",
+        live: "https://quackchat-project3.herokuapp.com/", 
     },
     {
         id: 3,
@@ -39,10 +39,10 @@ const projects = [
     },
     {
         id: 5,
-        title: "Horiseon Homepage",
-        image: "/img/horiseon-homepage.png",
-        repo: "https://github.com/andreaspencer/andreaspencer.github.io",
-        live: "https://andreaspencer.github.io/"
+        title: "Note Taker",
+        image: "/img/note-taker.png",
+        repo: "https://github.com/andreaspencer/note-taker",
+        live: "https://challenge10-notetaker.herokuapp.com/", 
     }
 ];
 

@@ -19,7 +19,7 @@ const projects = [
     {
         id: 2,
         title: "QuackChat",
-        image: "/img/note-taker.png",
+        image: "/img/quackchat.png",
         repo: "https://github.com/andreaspencer/quackchat-project3",
         live: "https://quackchat-project3.herokuapp.com/", 
     },
